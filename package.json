@@ -1,0 +1,13 @@
+{
+  "name": "moscow-vpn-landing",
+  "version": "1.0.0",
+  "description": "VPN landing page for Moscow",
+  "scripts": {
+    "dev": "npx vite",
+    "build": "echo 'Static site - no build needed' && exit 0",
+    "preview": "npx vite preview"
+  },
+  "keywords": ["vpn", "landing-page"],
+  "author": "",
+  "license": "ISC"
+}
